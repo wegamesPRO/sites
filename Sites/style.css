@@ -1,0 +1,9 @@
+.Titulo{
+        font-family: sans-serif;
+}
+.lista{         
+    font-family: monospace;
+    background-color: rgb(235, 145, 145);
+    margin-right: 70%;
+    text-align: center;
+}
